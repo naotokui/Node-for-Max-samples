@@ -1,0 +1,26 @@
+{
+  "name": "audioclassification_tfjs",
+  "version": "1.0.0",
+  "description": "Node for Max samples - Audio Classification with TFJS",
+  "main": "index.js",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.13.2",
+    "@tensorflow/tfjs-node": "^0.1.18",
+    "audio-buffer-from": "^1.1.1",
+    "audio-loader": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naotokui/Node-for-Max-samples.git"
+  },
+  "author": "naotokui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naotokui/Node-for-Max-samples/issues"
+  },
+  "homepage": "https://github.com/naotokui/Node-for-Max-samples#readme"
+}
